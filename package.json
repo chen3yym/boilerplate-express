@@ -1,6 +1,6 @@
 {
-	"author": "Min Chen",
 	"name": "fcc-learn-node-with-express",
+	"author": "Min Chen",
 	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
